@@ -1,6 +1,8 @@
 {
   "name": "ionic-spending-tracker",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular",
   "id": "289ad460"
 }
